@@ -17,5 +17,3 @@ class ClimbingStairs {
 		System.out.println("Number of ways = " + ClimbStairs(n + 1));
 	}
 }
-hi
-hi
